@@ -1,0 +1,5 @@
+fastapi==0.95.2
+pydantic==1.10.7
+pymongo==4.4.0
+uvicorn==0.22.0
+python-dotenv==1.0.0  # Optional if using environment variables for MongoDB URI
