@@ -1,0 +1,5 @@
+/home/srisha/project/java_backend/legal-cases/src/main/java/com/example/legalcases/LegalCasesApplication.java
+/home/srisha/project/java_backend/legal-cases/src/main/java/com/example/legalcases/dto/SuccessResponse.java
+/home/srisha/project/java_backend/legal-cases/src/main/java/com/example/legalcases/controller/CaseController.java
+/home/srisha/project/java_backend/legal-cases/src/main/java/com/example/legalcases/config/MongoConfig.java
+/home/srisha/project/java_backend/legal-cases/src/main/java/com/example/legalcases/model/Case.java

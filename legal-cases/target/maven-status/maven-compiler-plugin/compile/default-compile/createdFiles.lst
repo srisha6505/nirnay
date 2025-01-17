@@ -1,0 +1,5 @@
+com/example/legalcases/dto/SuccessResponse.class
+com/example/legalcases/config/MongoConfig.class
+com/example/legalcases/controller/CaseController.class
+com/example/legalcases/LegalCasesApplication.class
+com/example/legalcases/model/Case.class
