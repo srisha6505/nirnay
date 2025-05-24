@@ -46,5 +46,5 @@ def send_json_to_mongodb(json_file_path, mongodb_uri, database_name, collection_
             client.close()
 
 
-uri = "mongodb+srv://swatantratiwari29:Niggaballz@adaalat.1q8sc.mongodb.net/?retryWrites=true&w=majority&appName=Adaalat"
+uri = "MongoDB-uri"
 send_json_to_mongodb("data.json", uri, "legal_cases_db", "cases")
