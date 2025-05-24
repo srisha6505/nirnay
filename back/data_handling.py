@@ -42,7 +42,7 @@ app.add_middleware(
 )
 
 # MongoDB client setup (replace with your MongoDB connection details)
-uri = "mongodb+srv://codesrisha:Zygf4fUYScWteOWk@cluster0.my38l.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "MongoDB-uri"
 client = MongoClient(uri, server_api=ServerApi('1'))
 
 db = client["abdsa"]
